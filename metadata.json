@@ -1,0 +1,6 @@
+{
+  "name": "Apex Rotor: 3D Helicopter Battle",
+  "description": "An intense 3D combat flight simulator and helicopter battle game with procedural terrain, dynamic dogfights, boss encounters, and tactile Web Audio synth feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
